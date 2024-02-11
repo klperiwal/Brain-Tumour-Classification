@@ -21,4 +21,5 @@ Dataset Link - [Dataset Link](https://www.kaggle.com/datasets/sartajbhuvaji/brai
 |1|Inception Resnet|81.2%|84.3%|
 |2|Resnet 152V2|91.2%|89.0%|
 
-![image](https://github.com/klperiwal/Brain-Tumour-Classification/assets/100295708/8106d7e5-8e46-41ca-af4b-dbf7aac72f04)
+![inference_sample](https://github.com/klperiwal/Brain-Tumour-Classification/assets/100295708/8cca23f2-4754-4c55-abed-4603a9aef18f)
+
